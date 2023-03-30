@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(Montserrat-Bold.ttf)
+}
+
+@font-face {
+    font-family: "Montserrat2";
+    src: url(Montserrat-Regular.ttf);
+}
+
+.text {
+    font-family: "Montserrat";
+    font-size: 58px;
+    font-weight: 900px;
+
+
+
+
+}
+
+body {
+
+    background: url(cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.cover {
+
+    display: flex;
+
+}
+
+.drive {
+
+    width:50%; 
+    height: 240px;
+    margin-top: 232px;
+    margin-left: 171px;
+}
+
+.text2 {
+    font-family: "Montserrat2";
+    width: 539px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #737373;
+
+
+}
+
+.booton1 {
+    width: 185px;
+    height: 48px;
+    border-radius: 37px;
+    background-color: #00A0C1;
+    margin-top: 45px;
+    font-family: "Montserrat2";
+    font-size: 14px;
+    text-align: center;
+    padding-top: 2px;
+    color: #FFFFFF;
+
+}
+
+.booton2 {
+    width: 154px;
+    height: 48px;
+    border-radius: 37px;
+    border: 1px solid #00A0C1;
+    font-family: "Montserrat2";
+    font-size: 14px;
+    margin-top: 45px;
+    margin-left: 10px;
+    text-align: center;
+    color: #00A0C1;
+
+
+
+}
+
+.booton {
+    display: flex;
+}
+.conteiner{
+    width: 363px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    margin-top: 132px;
+}
+.book{
+font-family: "Montserrat";
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0.10000000149011612px;
+text-align: center;
+margin-top: 40px;
+
+}
+input{
+    margin-left: 42px;
+}
+.name{
+    width: 245px;
+    height: 50px;
+    outline: none;
+    border-radius: 5px;
+    margin-bottom: 46px;
+    padding-left: 21px;
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD
+    
+
+
+}
+.mail{
+    width: 245px;
+    height: 50px;
+    outline: none;
+    border-radius: 5px;
+    margin-bottom: 46px;
+    padding-left: 21px;
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD
+}
+
+.Select{
+
+    width: 245px;
+    height: 50px;
+    outline: none;
+    border-radius: 5px;
+    margin-bottom: 46px;
+    padding-left: 21px;
+    margin-left: 39px;
+    color: #737373;
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD
+}
+.time1{
+    width: 245px;
+    height: 50px;
+    outline: none;
+    border-radius: 5px;
+    margin-bottom: 46px;
+    padding-left: 21px;
+    margin-left: 39px;
+    color: #737373;
+    background: #F9F9F9;
+    border: 1px solid #BDBDBD
+}
+.book1{
+    background-color: #FFA62B ;
+    width: 248px;
+    height: 58px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+p{
+ margin-left: 40px;
+}
+
